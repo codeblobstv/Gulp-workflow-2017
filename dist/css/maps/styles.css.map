@@ -1,0 +1,1 @@
+{"version":3,"sources":["_typography.scss","styles.scss"],"names":[],"mappings":"AAAA,KACE,wCAAyC,CCE3C,KACE,uBACA,oBAAA,AAAa,oBAAb,AAAa,YAAA,CACd","file":"../styles.css","sourcesContent":["body {\n  font-family: 'Helvetica Neue', sans-serif;\n}\n","@import 'typography';\n\n\nbody {\n  background-color: wheat;\n  display: flex;\n}\n\n.title {\n  color: red;\n}\n"]}

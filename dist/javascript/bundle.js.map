@@ -1,0 +1,1 @@
+{"version":3,"sources":["javascript/bundle.js"],"names":["test","alert","log"],"mappings":"YAAAA,MAAO,WAAA,MAAMC,OAAM,iBAAnBD,QAAOE,IAAA","file":"bundle.js","sourcesContent":["test = () => alert(\"hello world!\");\n\nconsole.log(\"hello world!\")\n"]}
